@@ -39,3 +39,7 @@ Employee Panel (Service Employee):
 Complaint Submission:
 ![image](https://github.com/user-attachments/assets/b87bbfce-4e75-457d-b9f3-2c796ba200ed)
 
+Administrator Panel:
+![image](https://github.com/user-attachments/assets/03d6097e-87b9-4fc2-a804-fe2ad789511f)
+
+
